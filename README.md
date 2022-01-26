@@ -1,3 +1,3 @@
-# web-platform-g8ysxw
+# Progressive web app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-g8ysxw)
+## Following Code along from Frontendmasters
