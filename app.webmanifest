@@ -1,4 +1,9 @@
 {
   "name": "Codepad Masters, the best PWA in town",
-  "short_name": "Codepad"
+  "short_name": "Codepad",
+  "description": "This app lets you add notes while you are coding",
+  "start_url": "./?utm_source=pwa",
+  "theme_color": "#ffc252",
+  "scope": "./",
+  "display": "standalone"
 }
