@@ -1,8 +1,8 @@
 // We can say Service worker is a server(web proxy) running on client i.e on your browser using your browser's engine and runs on its own thread.
 // At the end, everything is javascript this service worker is also just a piece of javascript code.
 
-// Running on a seperate thread means not clash with your app's functionality i.e app's main javascript file in our case it's script.js however it's part of our application as
-// it gets registerd with specific app.
+// Running on a seperate thread means not clash with your app's functionality i.e app's main javascript file in our case it's script.js,
+// however it's part of our application as it gets registerd with specific app.
 
 // More importantly what it offers is basically it act as a web proxy for your pwa.
 
